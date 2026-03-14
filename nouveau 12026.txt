@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>السياحة في إفران</title>
+
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f5f5f5;
+text-align:center;
+}
+
+header{
+background:#2c7a7b;
+color:white;
+padding:20px;
+}
+
+section{
+padding:40px;
+}
+
+.card{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+footer{
+background:#333;
+color:white;
+padding:15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>مرحبا بكم في مدينة إفران</h1>
+<p>سويسرا المغرب</p>
+</header>
+
+<section>
+
+<div class="card">
+<h2>عن المدينة</h2>
+<p>
+تعتبر مدينة إفران من أجمل المدن المغربية،
+وتتميز بطبيعتها الخلابة ومناخها البارد وهندستها الأوروبية.
+</p>
+</div>
+
+<div class="card">
+<h2>أماكن سياحية</h2>
+<p>
+أسد الأطلس – غابة الأرز – جامعة الأخوين – حدائق إفران
+</p>
+</div>
+
+<div class="card">
+<h2>أفضل وقت للزيارة</h2>
+<p>
+الشتاء لرؤية الثلوج والصيف للاستمتاع بالطبيعة.
+</p>
+</div>
+
+</section>
+
+<footer>
+<p>موقع سياحي عن مدينة إفران</p>
+</footer>
+
+</body>
+</html>
